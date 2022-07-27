@@ -12,7 +12,7 @@ let esce = `
 Hai ${ye} Lagi Nyari Sc Ya? 
 
 
-_*https://youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw*_`
+_*Yahahaha 🤧*_`
 conn.sendBut(m.chat, esce, wm3, 'Thanks', 'thanks', m) 
 }
 handler.help = ['sc', 'sourcecode']
